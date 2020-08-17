@@ -25,6 +25,6 @@ public class UserMealWithExcess {
                 ", description='" + description + '\'' +
                 ", calories=" + calories +
                 ", excess=" + excess +
-                '}';
+                '}' + "\n";
     }
 }
